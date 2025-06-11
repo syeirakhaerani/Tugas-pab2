@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1003964277609",
+    "firebase_url": "https://pab2-si6d-default-rtdb.firebaseio.com",
+    "project_id": "pab2-si6d",
+    "storage_bucket": "pab2-si6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003964277609:android:ab92b00c65d7add63193f8",
+        "android_client_info": {
+          "package_name": "com.example.tugas_pab2_syeira"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtU8hPqpkCkK0PrL_kt77ul1A5UgpNjq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
